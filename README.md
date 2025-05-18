@@ -1,3 +1,3 @@
 # Hi, I'm Evan
 
-I'm a 20-year-old Software Engineering student at the University of Waterloo.
+I'm a 20 y/o Software Engineering student @ University of Waterloo.

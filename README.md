@@ -11,4 +11,4 @@ the slopes ⛷️.
   
 🎓 Co-authored and presented a [paper](https://cucai.ca/2025/papers/LAgRLJ) on LLM decision-making at CUCAI '25
 
-🌐 [evandennison.com](https://evandennison.com) · [LinkedIn](https://linkedin.com/in/evan-dennison/)
+🌐 [evandennison.com](https://evandennison.com) · [LinkedIn](https://www.linkedin.com/in/evan-dennison/)

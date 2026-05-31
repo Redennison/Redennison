@@ -9,6 +9,4 @@ the slopes ⛷️.
 👨‍💻 Winter 2025: SWE Intern @ theScore  
 👨‍💻 Summer 2024: SWE Intern @ Dentacloud  
   
-🎓 Co-authored and presented a [paper](https://cucai.ca/2025/papers/LAgRLJ) on LLM decision-making at CUCAI '25
-
-🌐 [evandennison.com](https://evandennison.com) · [LinkedIn](https://www.linkedin.com/in/evan-dennison/)
+🎓 Co-authored and presented a [paper](https://github.com/Redennison/CUCAI-2025/blob/main/CUCAI_2025_Legislative_LLM.pdf) on LLM decision-making at CUCAI '25
